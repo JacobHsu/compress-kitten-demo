@@ -15,13 +15,22 @@ components
 content 
 [tables](https://www.getpapercss.com/docs/content/tables/) 
 [typography](https://www.getpapercss.com/docs/content/typography/)  
+layout
+[flexbox](https://www.getpapercss.com/docs/layout/flexbox/)  
+utilities
+[spacing](https://www.getpapercss.com/docs/utilities/spacing/)  
 
 # npm
 
 [![NPM](https://nodei.co/npm/gh-pages.png?downloads=true&stars=true)](https://www.npmjs.com/package/gh-pages)  
 [![NPM](https://nodei.co/npm/connect.png?downloads=true&stars=true)](https://www.npmjs.com/package/connect)  
-[serve-static](https://www.npmjs.com/package/serve-static)  Create a new middleware function to serve files from within a given root directory.
+[serve-static](https://www.npmjs.com/package/serve-static)  Create a new middleware function to serve files from within a given root directory. 
 
+# References
+
+[Platform.js](https://github.com/bestiejs/platform.js#readme) A platform detection library. 
+[Benchmark.js](https://benchmarkjs.com/) A benchmarking library that supports high-resolution timers & returns statistically significant results. 基準化分析  
+getOriginImages `loadImage(`https://loremflickr.com/1280/960/kitten?random=${index}`))`
 
 ### gh-pages
 

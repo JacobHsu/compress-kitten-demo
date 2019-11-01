@@ -22,10 +22,14 @@ utilities
 
 # npm
 
-[![NPM](https://nodei.co/npm/gh-pages.png?downloads=true&stars=true)](https://www.npmjs.com/package/gh-pages)  
+[![NPM](https://nodei.co/npm/gh-pages.png?downloads=true&stars=true)](https://www.npmjs.com/package/gh-pages)   
 [![NPM](https://nodei.co/npm/connect.png?downloads=true&stars=true)](https://www.npmjs.com/package/connect)  
 [serve-static](https://www.npmjs.com/package/serve-static)  Create a new middleware function to serve files from within a given root directory. 
 
+# MDN
+
+[Promise](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Promise)  
+[Array.prototype.fill()](https://developer.mozilla.org/zh-TW/docs/Web/JavaScript/Reference/Global_Objects/Array/fill)
 # References
 
 [Platform.js](https://github.com/bestiejs/platform.js#readme) A platform detection library. 
@@ -62,6 +66,10 @@ To github.com:JacobHsu/compress-kitten-demo.git
 [pages user site not published](https://github.community/t5/GitHub-Pages/pages-user-site-not-published/td-p/2425)
 fatal: A branch named 'gh-pages' already exists.
 Solved this by deleting the node_modules/.cache folder.
+
+# Sources
+
+[loremflickr](https://loremflickr.com) Free placeholder images  
 
 # Tools
 
